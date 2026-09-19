@@ -25,7 +25,6 @@ python3 password_checker.py
 ```
 ## 🎯 A cosa serve questo repository
 
-Sono un divulgatore scientifico e conduco laboratori didattici per scuole, 
-famiglie e pubblico generico. Questo repository raccoglie gli strumenti 
-che sto sviluppando per rendere più concreti ed efficaci i miei laboratori 
-di educazione digitale e sicurezza informatica
+Sono un divulgatore scientifico e conduco laboratori didattici in svariati ambiti. 
+Questo repository raccoglie gli strumenti che sto sviluppando per rendere più concreti 
+ed efficaci i miei laboratori di educazione digitale e sicurezza informatica
