@@ -1,2 +1,2 @@
 # Laboratori-didattici-
-#Esempi di codice per laboratori didattici 
+#Password checker: testa quanto è forte la tua password 
