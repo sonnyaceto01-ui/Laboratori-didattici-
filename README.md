@@ -21,7 +21,7 @@ teorico.
 
 **Come eseguirlo:**
 ```bash
-python password_checker.py
+python3 password_checker.py
 ```
 ## 🎯 A cosa serve questo repository
 
